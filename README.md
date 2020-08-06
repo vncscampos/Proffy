@@ -15,6 +15,7 @@ Extras:
 
 - Main Libs
   - [Express](https://expressjs.com/pt-br/)
+  - [KnexJS](http://knexjs.org/)
 - Estilos
   - [EditorConfig](https://editorconfig.org/)
   - [ESLint](https://eslint.org/)
