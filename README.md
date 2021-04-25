@@ -21,10 +21,5 @@ Extras:
   - [ESLint](https://eslint.org/)
   - [Prettier](https://prettier.io/)
 
-## Web
-
-## Mobile
-
-
 
 Feito durante a Semana Next Level Week 2 da Rocketseat.
